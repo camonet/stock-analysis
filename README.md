@@ -1,5 +1,5 @@
 # stock-analysis (VBA Challenge)
-Overview of Project
+## Overview of Project
 The purpose of this project was to refactor existing stock analysis code to in order for it to run faster (i.e., more efficiently). 
 Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
