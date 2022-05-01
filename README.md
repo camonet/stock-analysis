@@ -11,7 +11,7 @@ The following pictures show the stock performance 12 stocks in years 2017 and 20
 
 With respect to refactoring, the edited code performed the same job much faster than the original code. In 2017 and 2018, the original code ran in 0.64 and 0.66 seconds, respectively. The refactored code ran in 0.10 and 0.09 seconds for 2017 and 2018, respectively. 
 
-<img width="264" alt="Old code (2017)" src="https://user-images.githubusercontent.com/99444856/166126731-e38f50e9-ebd8-4d0d-8cc1-dea3ba56
+<img width="264" alt="Old code (2017)" src="https://user-images.githubusercontent.com/99444856/166126932-4c7a31fa-6b64-441e-a98e-fe4af8d8756f.png">
 
 <img width="264" alt="Old code (2018)" src="https://user-images.githubusercontent.com/99444856/166126907-1936519a-ed36-4d89-b83e-b1fa4553e483.png">
                              
@@ -29,6 +29,9 @@ And the new code:
 <img width="609" alt="Refactored Code (2)" src="https://user-images.githubusercontent.com/99444856/166126878-c90f4a11-a797-47d3-9d41-73246c6cce6f.png">
 
 
-Summary
-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+## Summary
+### There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
+In general, the advantages of refactoring code make it more efficient for the comuputer to perform the desired task. Writing code that is inefficient may not make a huge difference for small data sets, but it can make a very large difference in performance when there are many data points to analyze. One marked disadvantage of refactoring code is that one can lose its readability when the code is made more efficient. 
+### There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+The advantage of the original script is that it allowed for someone to easily understand the code at the expense of efficiency, whereas the refactored allowed for a faster analysis of the stocks at the expense of readability. However, if a coder is diligent at making comments about the code, then the disadvantages that come with refactoring code will be diminished. 
+
