@@ -12,9 +12,10 @@ The following pictures show the stock performance 12 stocks in years 2017 and 20
 With respect to refactoring, the edited code performed the same job much faster than the original code. In 2017 and 2018, the original code ran in 0.64 and 0.66 seconds, respectively. The refactored code ran in 0.10 and 0.09 seconds for 2017 and 2018, respectively. 
 
 <img width="264" alt="Old code (2017)" src="https://user-images.githubusercontent.com/99444856/166126731-e38f50e9-ebd8-4d0d-8cc1-dea3ba56
-                                            
-<img width="264" alt="Old code (2018)" src="https://user-images.githubusercontent.com/99444856/166126734-92b78387-7647-4c92-8086-c81c986b5347.png">
-485e.png">
+
+<img width="264" alt="Old code (2018)" src="https://user-images.githubusercontent.com/99444856/166126907-1936519a-ed36-4d89-b83e-b1fa4553e483.png">
+                             
+
 
 <img width="264" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/99444856/166126727-fead9f05-312c-4fb8-bd5d-8dd95c83434e.png">
 <img width="264" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/99444856/166126728-771f1bdf-7d48-41fe-9b03-7732090d669d.png">
